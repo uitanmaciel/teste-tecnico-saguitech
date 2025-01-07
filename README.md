@@ -18,3 +18,6 @@ Este projeto é uma aplicação web simples para a emissão de Nota Fiscal de Se
 - **HTML5**: Para a estrutura da página.
 - **CSS3**: Para estilização.
 - **JavaScript**: Para lógica de cálculo e interação.
+
+## Página para testes
+[Page do Projeto](https://uitanmaciel.github.io/teste-tecnico-saguitech/)
